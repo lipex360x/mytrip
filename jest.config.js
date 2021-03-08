@@ -10,7 +10,8 @@ module.exports = {
     // Disable Files
     '!src/pages/*.ts(x)?',
     '!src/types/*.ts(x)?',
-    '!src/styles/global.ts'
+    '!src/styles/global.ts',
+    '!src/**/styles.ts'
   ],
 
   setupFilesAfterEnv: ['<rootDir>/.jest/setup.ts'],
