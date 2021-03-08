@@ -2,7 +2,7 @@
 
 ---
 
-![Image](https://github.com/lipex360x/mytrip/blob/master/assets/screen.png)
+![Image](https://github.com/lipex360x/mytrip/blob/master/assets/screen.jpg)
 
 ---
 
