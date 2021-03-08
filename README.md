@@ -1,9 +1,8 @@
-<h2 align="center">XXXXXXXXXXXXXXXXXXX</h2>
-<p align="center">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</p>
+<h2 align="center">My Trip</h2>
 
 ---
 
-![Image](https://github.com/lipex360x/nextjs-boilerplate/blob/main/assets/screen.png)
+![Image](https://github.com/lipex360x/mytrip/blob/master/assets/screen.png)
 
 ---
 
@@ -11,9 +10,11 @@
 
 - [Setup](#zap-setup)
 
+- [Backend](#zap-backend)
+
 - [Technologies](#zap-technologies)
 
-:house: [Return to Main Folder](https://github.com/lipex360x/XXXXXXXXXXXXXXXXXXXXXXXX)
+:house: [Return to Main Folder](https://github.com/lipex360x/mytrip)
 
 ---
 
@@ -48,15 +49,22 @@ Check more details of this project in the back-end folder
 
 ---
 
+### :zap: Backend
+```json
+ GraphCMS
+```
+
+---
+
 ### :zap: Technologies
 
 ```json
  NextJS
  Styled Components
  Jest
- Axios
  PlopJS
- StoryBook
+ Leaflet
+ GraphQL
 ```
 
 ---
