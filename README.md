@@ -50,7 +50,7 @@ Check more details of this project in the back-end folder
 ---
 
 ### :zap: Backend
-```json
+```js
  GraphCMS
 ```
 
@@ -58,7 +58,7 @@ Check more details of this project in the back-end folder
 
 ### :zap: Technologies
 
-```json
+```js
  NextJS
  Styled Components
  Jest
